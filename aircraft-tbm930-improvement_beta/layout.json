@@ -71,6 +71,16 @@
       "date": 1599601300519
     },
     {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS3000/TSC/Horizontal/AS3000_TSC_Horizontal.html",
+      "size": 127210,
+      "date": 132440507210189793
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS3000/TSC/Vertical/AS3000_TSC_Vertical.html",
+      "size": 122878,
+      "date": 132440507210439780
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_TBM930/model/TBM930_interior.xml",
       "size": 90112,
       "date": 132395409590000000
