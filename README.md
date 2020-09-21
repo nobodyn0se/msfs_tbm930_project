@@ -1,4 +1,4 @@
-# MSFS TBM 930 Project 0.4.9
+# MSFS TBM 930 Project 0.5.0 Beta
 This is the improvement project for the MSFS default TBM 930.
 
 I suggest using the [msfs-navsystems-performance mod](https://github.com/Smirow/msfs-navsystems-performance) for G3000 extra funcionalities and performance.
@@ -64,6 +64,8 @@ drag_coef_gear = 0.04700 *(default = 0.01000)*
 * **Added [kaosfere's dmimmable G3000 panels](https://github.com/kaosfere/msfs-fixes/tree/master/fixes/tbm930_lighting_fix)**
 
 * **Primary VNAV code, thanks to Javier1235**
+
+* **ITT fixes, thanks to Javier1235**
 
 ## Known Issues:
 
